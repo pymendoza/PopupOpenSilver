@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PopupSample
+/PopupSample/PopupSample/bin/Debug/netstandard2.0
+/PopupSample/PopupSample/obj
+/PopupSample/PopupSample.Browser/bin/Debug/net6.0
+/PopupSample/PopupSample.Browser/obj
+/PopupSample/PopupSample.Simulator/obj
+/PopupSample/PopupSample.Simulator/bin/Debug/net472
